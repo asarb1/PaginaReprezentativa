@@ -1,0 +1,28 @@
+{
+  "name": "paginareprezentativa",
+  "version": "1.0.0",
+  "description": "Pagina prezentare portofolii",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asarb1/PaginaReprezentativa.git"
+  },
+  "author": "Sarb Andreea-Roxana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asarb1/PaginaReprezentativa/issues"
+  },
+  "homepage": "https://github.com/asarb1/PaginaReprezentativa#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.3",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "express-session": "^1.18.0",
+    "node-modules": "^1.0.1",
+    "nodemon": "^3.1.4"
+  }
+}
