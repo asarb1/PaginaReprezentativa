@@ -16,7 +16,7 @@ app.use(session({
 }));
 
 app.get('/', (req, res) => {
-  res.render('mainpage')
+  res.render('home')
 })
 
 app.listen(port, () => {
