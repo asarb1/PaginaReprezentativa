@@ -1,6 +1,16 @@
+.hero-image {
+  border-radius: 10%;
+}
 .container-fluid {
   background-color: #01204E;
 }
 .nav-link {
+  color: #F6DCAC;
+}
+.row {
+  background-color: #F6DCAC;
+}
+.btn {
+  background-color: #01204E;
   color: #F6DCAC;
 }
